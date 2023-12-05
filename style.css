@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+   
+  }
+  header {
+    background: url('https://info.varonis.com/hubfs/intelig%C3%AAncia%20artificial%20.png');
+    background-size:100% 250px;
+
+    
+    height: 250px;
+    
+  }
+ 
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+    
+    display: flex;
+  }
+  
+  nav li {
+    width: 100%;
+    margin:  10px;
+    text-align: center;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+  }
+  .link{
+    background-color: #8a9eca;
+    padding: 4%;
+  }
+  .link:hover{/*açao ao passar o mause*/
+    color: #333;
+  }
+  aside {
+    
+    float: left;
+    width: 20%;
+    height: auto;
+    background-color:#0c0941;
+    color: #fff;
+}
+.tituloesquerda{
+    color: #8a9eca;
+text-align: center;
+}
+.TPR{
+    text-align: justify;
+    padding: 15px;
+}
+  article {
+    float: right;
+    width: 80%;
+    
+    height: 100%;
+    background-color: yellow;
+ 
+  }
+  .tituloum{
+    text-align: center;
+    }
+.TSC{
+        text-align: justify;
+        padding: 15px;
+    }
+.titulodois{
+    text-align: center;
+    
+}
+.TTD{
+    text-align: justify;
+    padding: 15px;
+}
+section{
+    
+    background-color: #060b1b;
+    color: #f3eeee;
+}
+ 
+  footer {
+
+    clear: both;
+    background-color: #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    color: #fff;
+  }
+
+  .Fonte{
+    color: #fff;
+}
+
+
+ 
+
